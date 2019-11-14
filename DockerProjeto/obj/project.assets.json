@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\breno\\source\\repos\\DockerProjeto\\DockerProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\breno\\Documents\\GitHub\\Docker\\DockerProjeto\\DockerProjeto.csproj",
       "projectName": "DockerProjeto",
-      "projectPath": "C:\\Users\\breno\\source\\repos\\DockerProjeto\\DockerProjeto.csproj",
+      "projectPath": "C:\\Users\\breno\\Documents\\GitHub\\Docker\\DockerProjeto\\DockerProjeto.csproj",
       "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\breno\\source\\repos\\DockerProjeto\\obj\\",
+      "outputPath": "C:\\Users\\breno\\Documents\\GitHub\\Docker\\DockerProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
